@@ -13,4 +13,4 @@ java.runtine.version=17 (version actual de Java)
    2. `git config --global user.email marcosurrea97@hotmail.com`
 3. Subir el proyecto a GitHub desde Intellij IDEA desde la opcion : VCS > share project on GitHUb
 4. Desde Heroku, crear app y elegir metodo GitHub y buscar el repositorio subido
-5. habilitar depoly automatico y ejecutar el Deploy
+5. Habilitar depoly automatico y ejecutar el Deploy
